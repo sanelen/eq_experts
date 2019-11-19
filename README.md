@@ -10,7 +10,8 @@ for your browser version : https://chromedriver.chromium.org/downloads
 Please use mvn-verify to run the test
 
 The test report sits under 
-target -> site -> Index  which can be run in a browser
+target -> site -> Serenity -> Index.html run with a browser
+
 
 thank you
 
